@@ -1,0 +1,22 @@
+#tagA {
+    color: blueviolet;
+    background-color: yellow;
+    font-size: 40px;
+}
+
+.geral{
+    background-color: pink;
+    font-size: 20px;
+    text-align: justify;
+}
+.geral:hover{
+    color: greenyellow;
+    text-decoration: underline;
+    transition: background-color 1s ease-in;
+    background-color: blue;
+}
+
+a:visited {
+    color: red;
+  }
+  
