@@ -17,7 +17,8 @@
 | https://www.scratch.mit.edu/ | TREINAR LÓGICA DE PROGRAMAÇÃO UTILIZANDO PROGRAMAÇÃO EM BLOCOS POR MEIO DE GAMIFICAÇÃO |
 | https://www.w3schools.com/ | APRENDER/PRATICAR SINTAXE DE DIVERSAS LINGUAGENS |
  
-## 💾 SALVE ESSE REPOSITÓRIO ⭐
+## 💾 SALVE ESSE REPOSITÓRIO ⭐ 💾
+
 
       
 <!-- </> with 💛 by readMD (https://readmd.itsvg.in) -->
