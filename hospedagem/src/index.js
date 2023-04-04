@@ -6,6 +6,7 @@ const router = require('./routes');
 const app = express();
 
 app.use(router)
+app.use(express.static('public'));
 
 app.get('/', (request, response) => {
   response.status(200).sendFile(path.join(__dirname + '/../public/index.html'));
