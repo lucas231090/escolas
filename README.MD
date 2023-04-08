@@ -18,7 +18,7 @@
 | https://www.w3schools.com/ | APRENDER/PRATICAR SINTAXE DE DIVERSAS LINGUAGENS |
  
 ## 💾 SALVE ESSE REPOSITÓRIO ⭐ 💾
-## CLIQUE NA ⭐
+
 
 
       
