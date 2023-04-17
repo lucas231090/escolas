@@ -1,0 +1,39 @@
+.card {
+	margin: 0 auto; /* centraliza horizontalmente */
+	width: 80%; /* ajusta a largura das divs */
+	margin-bottom: 20px; /* adiciona um espaço entre as divs */
+	box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+  }
+ 
+  /* para centralizar verticalmente, você pode usar flexbox: */
+  .container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 75vh; /* ajusta a altura da div pai */
+  }
+  
+  
+  .card:hover {
+	text-decoration: underline;
+	color: #007bff;
+	display: block;
+	text-decoration: none;
+  }
+  
+  .card-content {
+	padding: 10px;
+  }
+  
+  .card-title {
+	font-size: 20px;
+	margin-left: 50px;
+	color: black; /* define a cor do texto como preto */
+	text-decoration: none; /* remove o sublinhado do link */
+  }
+  
+  .card-title:hover {
+	background: #007bff;
+  }
+  

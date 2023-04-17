@@ -1,0 +1,32 @@
+.card {
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.3);
+	display: inline-block;
+	margin: 10px;
+	width: calc(33.33% - 20px);
+  }
+  
+  .card:hover {
+	box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  .card-content {
+	padding: 10px;
+  }
+  
+  .card-title {
+	font-size: 20px;
+	margin: 0 0 10px;
+  }
+  
+  .card-link {
+	color: #007bff;
+	display: block;
+	text-decoration: none;
+  }
+  
+  .card-link:hover {
+	text-decoration: underline;
+  }
+  
